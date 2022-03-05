@@ -10,7 +10,7 @@ function App() {
         <WeatherSearch />
         <a
           className="App-link"
-          href="https://github.com/sanjra/busyb"
+          href="https://github.com/sanjra/busyb-reactweather"
           target="_blank"
           rel="noopener noreferrer"
         >
