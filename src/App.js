@@ -7,15 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Busy B Weather</h1>
-        <iframe
-          style="border-radius:12px"
-          src="https://open.spotify.com/embed/track/5t6PaJ7ZIO4DocmryyXTHe?utm_source=generator&theme=0"
-          width="40%"
-          height="80"
-          frameBorder="0"
-          allowfullscreen=""
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        ></iframe>
         <WeatherSearch />
         <a
           className="App-link"
